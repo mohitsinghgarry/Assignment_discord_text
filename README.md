@@ -6,17 +6,17 @@
 
 A modern web app for creating colored text in Discord using ANSI codes with real-time preview.
 
-![App Screenshot](https://i.imgur.com/JQZ1l4a.png)
+![App Screenshot](/public/home.png)
 *↑ Create stunning colored messages for Discord with ease ↑*
 
 ## ✨ Features
 
 | Feature | Preview |
 |---------|---------|
-| **16 Color Palette** | ![Colors](https://i.imgur.com/8XJqT9k.gif) |
-| **Background Colors** | ![BG Colors](https://i.imgur.com/Vv3KQ7P.gif) |
-| **Bold/Underline** | ![Formatting](https://i.imgur.com/mN2LZ3C.gif) |
-| **One-Click Copy** | ![Copy](https://i.imgur.com/9pKzWnW.gif) |
+| **16 Color Palette** | ![Colors](/public/color.png) |
+| **Background Colors** | ![BG Colors](/public/color.png) |
+| **Bold/Underline** | ![Formatting](/public/feature.png) |
+| **One-Click Copy** | ![Copy](/public/copy.png) |
 
 ## 🚀 Quick Start
 
@@ -47,20 +47,11 @@ A modern web app for creating colored text in Discord using ANSI codes with real
 
 </div>
 
-## 🌈 Color Reference
-
-| ANSI Code | Color | Preview |
-|-----------|-------|---------|
-| 30-37 | Text Colors | ![Text Colors](https://i.imgur.com/8XJqT9k.png) |
-| 40-47 | Backgrounds | ![Backgrounds](https://i.imgur.com/Vv3KQ7P.png) |
-| 1 | Bold | **Example** |
-| 4 | Underline | <u>Example</u> |
-
 ## 📦 Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/discord-ansi-generator.git
+git clone https://github.com/yourusername/Assigment_discord_text.git
 
 # Install dependencies
 npm install
