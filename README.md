@@ -43,7 +43,6 @@ A modern web app for creating colored text in Discord using ANSI codes with real
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Mantine](https://img.shields.io/badge/-Mantine-339AF0?logo=mantine&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
 
 </div>
