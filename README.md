@@ -21,7 +21,7 @@ A modern web app for creating colored text in Discord using ANSI codes with real
 ## 🚀 Quick Start
 
 1. **Access the App**  
-   [![Open in Browser](https://img.shields.io/badge/-Live%20Demo-5865F2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-deployed-app-url.here)
+   [![Open in Browser](https://discordtextcolor.netlify.app/)
 
 2. **Create Your Text**
    ```markdown
